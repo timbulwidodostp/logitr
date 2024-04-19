@@ -5,7 +5,11 @@
 # # Logit Models w/Preference & WTP Space Utility Parameterizations Use Package logitr With (In) R Software
 # # Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations 
 #   Use Package logitr With (In) R Software
+install.packages("readxl")
+install.packages("httr")
 install.packages("logitr")
+library("httr")
+library("readxl")
 library("logitr")
 # # Import Data Excel Into R From Github Olah Data Semarang (timbulwidodostp)
 github_link <- "https://github.com/timbulwidodostp/logitr/raw/main/logitr/logitr.xlsx"
