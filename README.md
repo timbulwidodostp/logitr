@@ -5,6 +5,8 @@ Logit Models w/Preference & WTP Space Utility Parameterizations Use Package logi
 
 Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations Use Package logitr With (In) R Software
 
+https://www.youtube.com/watch?v=I2ecTCa_DiI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
